@@ -1,0 +1,4 @@
+FROM mistral:7b
+
+PARAMETER num_gpu 0
+PARAMETER num_thread 8 
